@@ -1,0 +1,1 @@
+MyFinalsActivity2 contract taught us Ethereum smart contract basics: ownership, Ether handling, and security measures. Deploying, interacting, and destroying it gave insights into blockchain's potential and decentralized systems' significance.
